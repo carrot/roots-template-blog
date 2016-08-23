@@ -9,7 +9,7 @@
     "dynamic-content": "0.2.x",
     "jade": "1.x",
     "js-pipeline": "0.2.x",
-    "marked": "0.3.x",
+    "jstransformer-marked": "^1.0.1",
     "rupture": "0.6.x",
     "stylus": "0.49.x"
   }
